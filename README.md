@@ -3,9 +3,9 @@
 
 # Bio
 
- - Discord : Sodanen#1490
- - Twitter : Sodanen_VRC_KR / Sodanen_VRC_JP
- - Gmail : sodanen@sodanen.com
+ - Discord : Sodanen
+ - Twitter : @Sodanen_VRC / https://twitter.com/Sodanen_VRC 
+ - Mail : sodanen@sodanen.com
 
 
 # Status
