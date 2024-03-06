@@ -5,7 +5,7 @@
 
  - Discord : Sodanen#1490
  - Twitter : Sodanen_VRC_KR / Sodanen_VRC_JP
- - Gmail : jun.codework@gmail.com  
+ - Gmail : sodanen@sodanen.com
 
 
 # Status
