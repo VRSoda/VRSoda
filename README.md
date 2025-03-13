@@ -1,4 +1,4 @@
- <img src="./Image/Sodanen.jpg" width= 100% height= auto/>
+ <img src="Sodanen.jpg" width= 100% height= auto/>
 
 
 
