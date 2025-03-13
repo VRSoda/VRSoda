@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Sodanen 👋
+ <img src="md image.png" width="50" height="50"/>
 
 
 # Bio
