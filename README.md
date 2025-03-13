@@ -4,7 +4,6 @@
 # Bio
 
  - Discord : Sodanen
- - Twitter : @Sodanen_VRC / https://twitter.com/Sodanen_VRC 
  - Mail : sodanen@sodanen.com
 
 
