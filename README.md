@@ -2,9 +2,9 @@
 
 
 
-<p aline : "inline">
+<p>
   <!-- 이메일 -->
-  <a href="mailto:sodanen@sodanen.com">
+  <a>
     <img src="https://img.shields.io/badge/Mail-brightgreen?style=for-the-badge&logo=gmail&logoColor=%23FFFFFF&logoSize=0&labelColor=%23EA4335&color=%23EA4335">
   </a>
   <!-- 디스코드 -->
