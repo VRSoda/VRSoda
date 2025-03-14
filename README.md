@@ -15,8 +15,8 @@
 
 <hr/>
 
-## ✨깃허브 활동
+<h2>✨깃허브 활동</h2>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRSoda&layout=compact)
 
 ![Sodanen GitHub status](https://github-readme-stats.vercel.app/api?username=VRSoda&theme=dark&show_icons=true)
-<hr/>
