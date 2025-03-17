@@ -19,4 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VRSoda&layout=compact)
 
-![Sodanen GitHub status](https://github-readme-stats.vercel.app/api?username=seolranlee&count_private=true)
+![Sodanen GitHub status](https://github-readme-stats.vercel.app/api?username=VRSoda&count_private=true)
