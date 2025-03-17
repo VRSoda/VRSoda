@@ -4,9 +4,9 @@
 
 <div style="display: flex; align-items: flex-start;">
     <a href="https://discord.com/users/1016918516940673054">
-        <img src="https://skillicons.dev/icons?i=discord" alt="Windows Icon" style="margin-right: 10px;">
+        <img src="https://skillicons.dev/icons?i=discord" alt="discord Icon" style="margin-right: 10px;">
     </a>
-    <a href="mailto:example1@example.com">
+    <a href="mailto:sodanen@sodane.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
     </a>
 </div>
