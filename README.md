@@ -6,7 +6,7 @@
     <a href="https://discord.com/users/1016918516940673054">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord Icon" style="margin-right: 10px;">
     </a>
-    <a href="mailto:sodanen@sodane.com">
+    <a href="mailto:sodanen@sodanen.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
     </a>
 </div>
