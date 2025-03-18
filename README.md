@@ -31,7 +31,7 @@
 
 ## ✨ 깃허브 활동
 <div style="display: flex; justify-content: space-between;">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=VRSoda&count_private=true&theme=ambient_gradient&show_icons=true">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=VRSoda&count_private=true&theme=ambient_gradient&show_icons=true" style="margin-right: 10px;">
     <img width="400" src="https://stats.hyo.dev/api/github-stats?login=VRSoda">
 </div>
 
