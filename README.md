@@ -1,20 +1,20 @@
 <img src="Sodanen.png" width= 100% height= auto/>
 
 ---
-
+## ✨개인 연락
 <div style="display: flex; align-items: flex-start;">
-    <a href="https://discord.com/users/1016918516940673054">
+    <span href="https://discord.com/users/1016918516940673054">
         <img src="https://skillicons.dev/icons?i=discord" alt="discord Icon" style="margin-right: 10px;">
-    </a>
-    <a href="mailto:sodanen@sodanen.com">
+    </span>
+    <span href="mailto:sodanen@sodanen.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon">
-    </a>
+    </span>
 </div>
 
 ---
 
 
-<h2>✨깃허브 활동</h2>
+## ✨깃허브 활동
 
 <img width="400" src="https://stats.hyo.dev/api/github-stats?login=VRSoda">
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=VRSoda&count_private=true&theme=ambient_gradient&show_icons=true">
