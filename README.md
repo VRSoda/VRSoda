@@ -18,7 +18,7 @@
         <td style="border: 1px solid #ddd; padding: 8px;">jun.codework@gmail.com</td>
     </tr>
     <tr>
-        <td style="border: 1px solid #ddd; padding: 8px;">🚧 Private Email [Synology]</td>
+        <td style="border: 1px solid #ddd; padding: 8px;">🛠 Private Email [Synology]</td>
         <td style="border: 1px solid #ddd; padding: 8px;">Sodanen@Sodanen.com</td>
     </tr>
     <tr>
