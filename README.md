@@ -1,8 +1,7 @@
 <div style="display: flex; justify-content: space-between;">
-    <img src="Sodanen.png" style="width: 48%; height: auto;" />
-    <img src="Coffee.png" style="width: 48%; height: auto;" />
+    <img src="Sodanen.png" style="flex: 1; height: auto; max-width: 100%;" />
+    <img src="Coffee.png" style="flex: 1; height: auto; max-width: 100%;" />
 </div>
-
 ---
 
 ## ✨ 개인 연락
