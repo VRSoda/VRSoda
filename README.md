@@ -1,7 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
-    <img src="Sodanen.png" style="width: 48%; height: auto;" />
-    <img src="Coffee.png" style="width: 48%; height: auto;" />
-</div>
+<img src="Sodanen.png" style="height: auto;" />
 
 ---
 
