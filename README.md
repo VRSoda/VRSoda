@@ -92,7 +92,7 @@
 ---
 
 <details>
-<summary>🛠️ ↓ 기술 스택 [ Tech Stack ] ↓ 🛠️</summary>
+<summary>🛠️ ↓ 기술 스택 [ Tech Stack / 技術スタック] ↓ 🛠️</summary>
 
 ### 사용 환경 [ Environment / 使用環境]
 
