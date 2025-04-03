@@ -4,16 +4,53 @@
 
 ## 🙋‍♂️ 프로필 [Personal Information / プロフィル]
 
+<details>
+<summary>🇰🇷 한국어</summary>
+
 <table style="width: 100%; border-collapse: collapse; background-color: white; text-align: center; table-layout: fixed;">
     <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">BirthDay<br>生年月日</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">생일</td>
         <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">1999.11.06</td>
     </tr>
     <tr>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">Language<br>使用言語</td>
-        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">Korean, Japanese<br>韓国語、日本語</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">사용 언어</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">한국어, 일본어</td>
     </tr>
 </table>
+
+</details>
+
+<details>
+<summary>🇯🇵 日本語</summary>
+
+<table style="width: 100%; border-collapse: collapse; background-color: white; text-align: center; table-layout: fixed;">
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">生年月日</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">1999.11.06</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">使用言語</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">韓国語、日本語</td>
+    </tr>
+</table>
+
+</details>
+
+<details>
+<summary>🇺🇸 English</summary>
+
+<table style="width: 100%; border-collapse: collapse; background-color: white; text-align: center; table-layout: fixed;">
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">BirthDay</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">1999.11.06</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">Language</td>
+        <td style="border: 1px solid #ddd; padding: 8px; width: 50%;">Korean, Japanese</td>
+    </tr>
+</table>
+
+</details>
 
 ## ✨ 개인 연락 [ Personal contact / 個人連絡]
 
