@@ -2,7 +2,7 @@
 
 ---
 
-## 🙋‍♂️ 프로필 [Personal Information]
+## 🙋‍♂️ 프로필 [Personal Information / プロフィル]
 
 <table style="width: 100%; border-collapse: collapse; background-color: white; text-align: center; table-layout: fixed;">
     <tr>
@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-## ✨ 개인 연락 [ Personal contact ]
+## ✨ 개인 연락 [ Personal contact / 個人連絡]
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
     <a href="https://discord.com/users/1016918516940673054">
@@ -45,7 +45,7 @@
 
 ---
 
-## ✨ 깃허브 활동 [ GitHub Activities ]
+## ✨ 깃허브 활동 [ GitHub Activities / Github活動 ]
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=VRSoda&count_private=true&theme=ambient_gradient&show_icons=true" title="#1 Sodanen GitHub Stats">
@@ -57,23 +57,23 @@
 <details>
 <summary>🛠️ ↓ 기술 스택 [ Tech Stack ] ↓ 🛠️</summary>
 
-### 사용 환경 [ Environment ]
+### 사용 환경 [ Environment / 使用環境]
 
 <img src="https://skillicons.dev/icons?i=windows" title="Environment" >
 
-### 개발 워크플로우 [ Workflow ]
+### 개발 워크플로우 [ Workflow / 開発ワークフロー ]
 
 <img src="https://skillicons.dev/icons?i=github,git,vscode" title="Workflow">
 
-### 사용하는 언어 [ Use Languages ]
+### 사용하는 언어 [ Use Languages / 使用言語]
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,electron,discordjs,bots" title="Use Languages">
 
-### 데이터베이스 [ Database ]
+### 데이터베이스 [ Database / データベース ]
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb" title="Database">
 
-### 기타 사용 가능한 소프트웨어 [ Other Use Software ]
+### 기타 사용 가능한 소프트웨어 [ Other Use Software / 使用可能なソフトウェア ]
 
 <img src="https://skillicons.dev/icons?i=unity,ps,notion,postman" title="Other Use Software">
 
