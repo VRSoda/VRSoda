@@ -58,7 +58,7 @@
     <a href="https://discord.com/users/1016918516940673054">
         <img src="https://skillicons.dev/icons?i=discord" alt="Discord Icon" title="Discord">
     </a>
-    <a href="mailto:sodanen@sodanen.com">
+    <a href="mailto:jun.codework@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Icon" title="Gmail">
     </a>
 </div>
