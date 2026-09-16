@@ -15,6 +15,11 @@
 - I speak Japanese and Korean.
 
 ## Tech Stack
+
+### Currently Learning
+
+<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />
+
 ### Environment
 
 <img src="https://skillicons.dev/icons?i=windows,ubuntu" alt="Windows, Ubuntu" />
