@@ -4,35 +4,46 @@
   <h1>Sodanen</h1>
   <p>Building practical desktop apps, web services, and bot systems.</p>
 
-  <a href="mailto:sodanen@sodanen.com"><img src="https://img.shields.io/badge/Email-sodanen%40sodanen.com-24292f?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://discord.com/users/1016918516940673054"><img src="https://img.shields.io/badge/Discord-Sodanen-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="mailto:cvdfer11191@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" /></a>
+  <a href="https://discord.com/users/1016918516940673054" title="Discord"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" /></a>
 </div>
 
 ## About
 
 - I build software for Windows, the web, and online communities.
-- I care about useful features, stable operation, and maintainable code.
-- I speak Korean and Japanese.
+- I care about useful features, reliable operation, and maintainable code.
+- I speak Japanese and Korean.
 
-## Featured project
+## Tech Stack
+### Environment
 
-### [Sukito](https://github.com/VRSoda/Sukito)
+<img src="https://skillicons.dev/icons?i=windows,ubuntu" alt="Windows, Ubuntu" />
 
-A lightweight Windows weekly planner with Google Calendar sync, live weather, reminders, and a UI that adapts to the Windows accent color.
+### Development Tools
 
-`React` · `TypeScript` · `Rust` · `Tauri` · `Tailwind CSS`
+<img src="https://skillicons.dev/icons?i=github,git,vscode,docker" alt="GitHub, Git, Visual Studio Code, Docker" />
 
-## Tech
+### Frontend
 
-**Main**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="HTML, CSS, JavaScript, TypeScript, React, Vite" />
 
-`TypeScript` · `JavaScript` · `React` · `Node.js` · `Rust` · `C#`
+### UI Framework
 
-**Tools & platforms**
+<img src="https://skillicons.dev/icons?i=materialui,tailwind" alt="Material UI, Tailwind CSS" />
 
-`Tauri` · `Discord.js` · `Docker` · `PostgreSQL` · `Redis` · `Unity`
+### Desktop & Bots
+
+<img src="https://skillicons.dev/icons?i=nodejs,electron,discordjs,bots" alt="Node.js, Electron, Discord.js, Bots" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,mongodb" alt="Supabase, PostgreSQL, MongoDB" />
+
+### Other Tools
+
+<img src="https://skillicons.dev/icons?i=unity,ps,notion,postman" alt="Unity, Photoshop, Notion, Postman" />
 
 ## Contact
 
-- Email: [sodanen@sodanen.com](mailto:sodanen@sodanen.com)
+- Email: [cvdfer11191@gmail.com](mailto:cvdfer11191@gmail.com)
 - Discord: [Sodanen](https://discord.com/users/1016918516940673054)
